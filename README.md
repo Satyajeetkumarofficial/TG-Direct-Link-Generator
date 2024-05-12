@@ -86,11 +86,11 @@ or if you're Locally hosting, create a file named `.env` in the root directory a
 An example of `.env` file:
 
 ```sh
-API_ID=452525
-API_HASH=esx576f8738x883f3sfzx83
-BOT_TOKEN=55838383:yourtbottokenhere
-BIN_CHANNEL=-100
-MULTI_TOKEN1=55838383:yourfirstmulticlientbottokenhere
+API_ID=25617967
+API_HASH=10555bea1cdfc7d2303fc13b7fd187cc
+BOT_TOKEN=7045100317:AAFWAfApvUT3PaDxr_kALRHckVaMHlajcNw
+BIN_CHANNEL=-1002054249965
+MULTI_TOKEN1=6802407570:AAFiRtNmzkmgQVkY_vfBuORCVfLY7x6MY9U
 MULTI_TOKEN2=55838383:yoursecondmulticlientbottokenhere
 MULTI_TOKEN3=55838383:yourthirdmulticlientbottokenhere
 PORT=8080
