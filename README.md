@@ -108,7 +108,7 @@ HAS_SSL=False
 
 `BIN_CHANNEL` : Create a new channel (private/public), post something in your channel. Forward that post to [@missrose_bot](https://telegram.dog/MissRose_bot) and **reply** `/id`. Now copy paste the forwarded channel ID in this field. 
 
-`OWNER_ID` : Your Telegram User ID
+`OWNER_ID` : 6567324192
 
 ### For MultiClient
 
